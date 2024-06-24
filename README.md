@@ -13,3 +13,4 @@ RU:
 ## Как установить:
 1) Прежде всего, вам нужно присоединиться к [специальной группе в Steam](https://steamcommunity.com/groups/WildfrostModTesters), без выполнения этого шага вы не увидите вкладку ```Мастерская``` для Wildfrost в Steam.
 2) Далее вам нужно переключить игру на ```modding``` ветку: ПКМ по **Wildfrost** в Steam - ```Свойства... - Бета-версии```, ввести код ```gigisworkshop``` и сверху выбрать ветку **modding - for testing mod support**.
+![1](https://github.com/Nitablade/Wildfrost_RU/assets/109508685/0439dc77-8728-40e6-a49d-ed81885efac2)
