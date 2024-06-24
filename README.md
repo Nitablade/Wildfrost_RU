@@ -9,9 +9,9 @@ RU:
 
 ---
 
-Данная модификация работает только с официальной копией игры Wildfrost, доступной в Steam. Модификация никак не влияет на получений достижений в игре.
+Данная локализация работает только с официальной копией игры Wildfrost, доступной в Steam. Локализация никак не влияет на получений достижений в игре.
 
-Модификация использует шрифт, отличный от оригинального. При желании - вы можете заменить файл шрифта ```Ely Rounded Bold.ttf``` на любой другой с сохранением исходного имени.
+Локализация использует шрифт, отличный от оригинального. При желании - вы можете заменить файл шрифта ```Ely Rounded Bold.ttf``` на любой другой с сохранением исходного имени.
 
 ## Как установить:
 1) Прежде всего, вам нужно присоединиться к [специальной группе в Steam](https://steamcommunity.com/groups/WildfrostModTesters), без выполнения этого шага вы не увидите вкладку ```Мастерская``` для Wildfrost в Steam.
@@ -22,3 +22,17 @@ RU:
 ![image](https://github.com/Nitablade/Wildfrost_RU/assets/109508685/e41fe2c1-1b5e-4188-a351-7f640f609332)
 6) После этого перейдите в меню ```Settings - Game Options``` и переключите ```Language``` один раз влево на **Русский**.
 ![image](https://github.com/Nitablade/Wildfrost_RU/assets/109508685/3d8c120d-3c7d-4b74-b462-f24fa7677037)
+
+Локализация так же включает в себя полный перевод на русской для актуальной бета-версии мода **Snowfall**.
+
+## Ниже немного скриншотов
+
+### Выразить благодарность автору локализации можно тут: [https://www.twitch.tv/Nitablade](https://www.twitch.tv/Nitablade)
+
+Помимо Wildfrost, я занималась локализацией для таких игр как:
+1) [**BEAM**](https://store.steampowered.com/app/1067430/Beam/)
+2) [**Backpack Hero**](https://store.steampowered.com/app/1970580/Backpack_Hero/)
+3) [**Мод Downfall**](https://steamcommunity.com/sharedfiles/filedetails/?id=1610056683&searchtext=Downfall) для Slay the Spire
+4) [**Balatro**]([https://store.steampowered.com/app/1811990/Wildfrost/](https://github.com/Nitablade/Balatro_ProperRussian/tree/main))
+
+Также можете присоединиться к моему [Discord-серверу](https://discord.gg/zFAGDn6QMs), чтобы следить за обновлениями локализаций.
