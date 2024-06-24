@@ -4,7 +4,7 @@
 
 ### A "Russian localization for Wildfrost" is only available for installation through Steam Workshop on a PC Steam client. The author doesn't allow any unofficial ports of the mod.
 
--
+---
 
 ### Контент данного GitHub репозитория не может быть модифицирован и распространяться на сторонних ресурсах без прямого разрешения автора.
 
