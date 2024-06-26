@@ -8,7 +8,7 @@ RU:
 Это моя авторская локализация на русский язык для Wildfrost (релиз 1.2.1). 
 ### Внимание: локализация скачивается из Мастерской Steam после проделанных шагов, описанных ниже, с этого GitHub ничего скачивать не нужно.
 
-[https://github.com/Nitablade/Wildfrost_RU/blob/main/Changelog.md](Changelog доступен тут)
+[Changelog доступен тут](https://github.com/Nitablade/Wildfrost_RU/blob/main/Changelog.md)
 
 ---
 
